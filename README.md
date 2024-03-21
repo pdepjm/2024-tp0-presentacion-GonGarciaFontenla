@@ -1,4 +1,4 @@
 # 2024-tp0-presentacion-GonGarciaFontenla
 Buenas tardes a todos, espero que se encuentren todos bien. 
-Mi nombre es Gonzalo Garcia Fontenla 
+Mi nombre es Gonzalo Garcia Fontenla. 
 Numero de legajo: 213.735-5
